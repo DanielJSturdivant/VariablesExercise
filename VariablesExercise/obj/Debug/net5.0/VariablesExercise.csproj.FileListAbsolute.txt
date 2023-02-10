@@ -1,0 +1,16 @@
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\bin\Debug\net5.0\VariablesExercise.exe
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\bin\Debug\net5.0\VariablesExercise.deps.json
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\bin\Debug\net5.0\VariablesExercise.runtimeconfig.json
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\bin\Debug\net5.0\VariablesExercise.runtimeconfig.dev.json
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\bin\Debug\net5.0\VariablesExercise.dll
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\bin\Debug\net5.0\ref\VariablesExercise.dll
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\bin\Debug\net5.0\VariablesExercise.pdb
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\obj\Debug\net5.0\VariablesExercise.csproj.AssemblyReference.cache
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\obj\Debug\net5.0\VariablesExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\obj\Debug\net5.0\VariablesExercise.AssemblyInfoInputs.cache
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\obj\Debug\net5.0\VariablesExercise.AssemblyInfo.cs
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\obj\Debug\net5.0\VariablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\obj\Debug\net5.0\VariablesExercise.dll
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\obj\Debug\net5.0\ref\VariablesExercise.dll
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\obj\Debug\net5.0\VariablesExercise.pdb
+C:\Users\lesse\source\repos\VariablesExercise\VariablesExercise\obj\Debug\net5.0\VariablesExercise.genruntimeconfig.cache
